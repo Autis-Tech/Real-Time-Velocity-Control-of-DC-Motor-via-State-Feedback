@@ -1,0 +1,6 @@
+Usage:
+  1. Prepare the HArdware
+  1. Upload "Arduino_code.ino" to Arduino MEGA
+  2. Run MATLAB control script: "State_Feedback_Control_Implementation.m" or "Integral_State_Feedback_Control_Implementation.m"
+  3. Monitor real-time control performance
+  4. Analyze logged data post-experiment via plots or others
