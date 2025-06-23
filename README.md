@@ -1,5 +1,4 @@
 # Real-Time Velocity Control of DC Motor via State-Feedback
-# DC Motor Control: State-Space Implementation
 
 A hands-on resource for implementing linear state feedback control of DC motors using MATLAB/Arduino. Perfect for:
 
